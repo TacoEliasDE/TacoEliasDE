@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TacoEliasDE
 - 👀 I’m interested in Pocketmine Coding
 - 🌱 I’m currently learning Pocketmine Coding
-- 💞️ I’m looking to collaborate on
 - 📫 How to reach me : 
   Twitter: TacoEliasDE
   Instagram: tacoelias
